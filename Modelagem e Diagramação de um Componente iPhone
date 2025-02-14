@@ -28,3 +28,5 @@ classDiagram
         +adicionarNovaAba()
         +atualizarPagina()
     }
+
+
